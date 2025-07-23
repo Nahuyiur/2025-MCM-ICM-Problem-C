@@ -92,11 +92,9 @@ Fisher’s Exact Test on historic coaching changes (Lang Ping, Béla Károlyi)
 
 ------
 
-## 🧪 7. Model Evaluation & Sensitivity
+## 🪪 7. License
 
-- Confidence bands widen logically from 60 %→99 % CIs, yet point forecasts stay unchanged.
-- ✅ Advantages: rigorous event clustering, explicit host factor, Poisson‑based medal distribution, hybrid ensemble approach.
-- ⚠️ Limitations: political uncertainty, higher variance for low‑medal nations, computational cost, simplifications in win‑rate models.
+This project is licensed under the [MIT License](./LICENSE) © 2025 Team #2510006.
 
 ------
 
