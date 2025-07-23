@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Authors
 
-🧑‍🤝‍🧑**Team #2510006** – 🏅 **==Outstanding Winner==, MCM/ICM 2025**  
+🧑‍🤝‍🧑**Team #2510006** – 🏅 **Outstanding Winner, MCM/ICM 2025**  
 	📍 **Problem C – Olympic Medal Forecasting**  
 	🏫 **Southern University of Science and Technology (SUSTech)**
 
